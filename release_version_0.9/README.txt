@@ -8,10 +8,10 @@ https://www.degruyter.com/document/doi/10.1515/tnsci-2022-0325/html
 
 
 # File description:
-Myeloarchitectonic_VV_map_v001.nii.gz    	  -  Myeloarchitectonic map in MNI space ( ICBM/MNI152_2009b )
+Myeloarchitectonic_VV_map_v001.nii.gz    	  	  -  Myeloarchitectonic map in MNI space ( ICBM/MNI152_2009b )
 cT_Myelo_VV_Map_ver001.label   				  -  Color table for the ITKSnap viewer
-mni_icbm152_t1_tal_nlin_sym_2009b_sym.nii.gz  -  The reference T1 volume of the ICBM/MNI_2009b_sym space
-README.txt									  -  This file
+mni_icbm152_t1_tal_nlin_sym_2009b_sym.nii.gz  		  -  The reference T1 volume of the ICBM/MNI_2009b_sym space
+README.txt					          -  This file
 paper_10.1515_tnsci-2022-0325.pdf			  -  The pdf of the paper
 suppl_tnsci-2022-0325_sm.pdf			 	  -  The pdf of the supplementray material
 
@@ -211,7 +211,7 @@ and in the color table cT_Myelo_VV_Map_ver001.label:
  
  
 LICENCE for the Myeloarchitectonic Map in MNI space: 
-Copyright (C) 2023 Mai J¸rgen K., Majtanik Milan, MRX-Brain GmbH, D¸sseldorf, German. 
+Copyright (C) 2023 Mai J√ºrgen K., Majtanik Milan, MRX-Brain GmbH, D√ºsseldorf, German. 
 Permission to use and copy this software and its documentation for non-commercial 
 purpose is hereby granted, provided that the above copyright notice appear in all copies. 
 
@@ -221,7 +221,7 @@ matter of products liability, negligence or otherwise, or from any use or operat
 methods, products, instructions, or ideas contained in the material herein.
 
 The authors and Heinrich-Heine University make no representations about the suitability of this software 
-for any purpose. It is provided ìas isî without express or implied warranty. The authors are not 
+for any purpose. It is provided ‚Äúas is‚Äù without express or implied warranty. The authors are not 
 responsible for any data loss, equipment damage, property loss, or injury to subjects or patients 
 resulting from the use or misuse of this software package.
 
@@ -238,12 +238,12 @@ responsibility.
 
    
 LICENCE for the MNI volume:
-Copyright (C) 1993ñ2004 Louis Collins, McConnell Brain Imaging Centre, Montreal
+Copyright (C) 1993‚Äì2004 Louis Collins, McConnell Brain Imaging Centre, Montreal
 Neurological Institute, McGill University. Permission to use, copy, modify, and distribute this
 software and its documentation for any purpose and without fee is hereby granted, provided
 that the above copyright notice appear in all copies. The authors and McGill University make
-no representations about the suitability of this software for any purpose. It is provided ìas
-isî without express or implied warranty. The authors are not responsible for any data loss,
+no representations about the suitability of this software for any purpose. It is provided ‚Äúas
+is‚Äù without express or implied warranty. The authors are not responsible for any data loss,
 equipment damage, property loss, or injury to subjects or patients resulting from the use or
 misuse of this software package.
 
