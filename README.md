@@ -7,6 +7,7 @@ Mai, J.K. and Majtanik, M.
 Translational Neuroscience, vol. 14, no. 1, 2023, pp. 20220325
 https://doi.org/10.1515/tnsci-2022-0325
 
+![Figure06_new7](https://github.com/MRXbrain/MyeloMaps/assets/150635183/ef909ad8-9550-44a4-a974-683f950e5af1)
 
 ### Abstract
 
